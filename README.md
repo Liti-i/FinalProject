@@ -28,7 +28,7 @@
 關閉程式後重新開啟，點擊「讀取檔案」，系統會透過 StreamReader 將先前的資料完整還原至表格
 中，達成資料的持久化保存。 
 
-
+<img width="788" height="493" alt="螢幕擷取畫面 2026-06-19 200200" src="https://github.com/user-attachments/assets/6ec63b0f-88f1-4f10-a061-d9e62c5dea97" />
 
 6. 財務統計儀表板與視覺化圖表 
 操作說明： 
